@@ -22,5 +22,5 @@ In this example, user comments are received as textual data (`CommentsText') and
 ### Result:
 This code allows you to create a simple machine model that divides user comments into positive and negative categories. This is a simple example of using NLP in a car.
 
-Mojtaba Golnouri (golnouri@gmail.com)
-Good Luck.
+© Mojtaba Golnouri  
+GitHub: https://github.com/golnouri
